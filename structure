@@ -1,0 +1,16 @@
+spring-hibernate-demo/
+│
+├── src/main/java/com/example/demo/
+│   ├── config/AppConfig.java
+│   ├── entity/Student.java
+│   ├── entity/Account.java
+│   ├── dao/StudentDAO.java
+│   ├── dao/AccountDAO.java
+│   ├── service/BankService.java
+│   ├── service/StudentService.java
+│   └── MainApp.java
+│
+├── src/main/resources/
+│   └── hibernate.cfg.xml
+│
+└── pom.xml
